@@ -1,0 +1,14 @@
+{
+  "name": "RedTeamTK",
+  "version": "1.0.0",
+  "description": "Previously the BlackhatToolkit, Rebooted and Upgraded so that you don't have to carry a whole OS with you.",
+  "main": "index.js",
+  "repository": "https://github.com/ukjp-co/RedTeamTK",
+  "author": "Sam Aldis, UKJP, You",
+  "license": "GPLv3",
+  "private": false,
+  "workspace" : [
+    "toolkit/*",
+    "src/*"
+  ]
+}
