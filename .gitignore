@@ -4,8 +4,10 @@ Cargo.lock
 *.bk
 *.*~
 **/node_modules/
-**/pyenv
+**/pyenv/
+**/.env/
 **/*.dev.*
 **/.fingerprint/
 **/.rustc_info.json
 **/debug/
+Browser/
