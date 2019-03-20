@@ -1,0 +1,7 @@
+[team]
+owner = "sam aldis"
+[team.core]
+C = ""
+Rust = ""
+GUI = ""
+etc = "...."
